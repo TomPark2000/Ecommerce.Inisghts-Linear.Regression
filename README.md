@@ -31,7 +31,7 @@ I created testing and training data, with the x-values being "Avg. Session Lengt
 
 ## Evaluation of Model Predictions
 
-The model predicted what the the Y values would be for the the test data. I plotted out the Predicted Values and the Actual Values on a scatter plot and from this visualization, it seems that the model did pretty well. For context, a perfectly diagonal line would indicate a perfect model on the test data. 
+The model predicted what the Y values would be for the the test data. I plotted out the Predicted Values and the Actual Values on a scatter plot and from this visualization, it seems that the model did pretty well. For context, a perfectly diagonal line would indicate a perfect model on the test data. 
 
 ![](images/LR_pred.png)
 
